@@ -14,7 +14,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/Nasmedia-Tech/iOS-SSP-Mediation-SPM.git",
-            from: "2.1.8"
+            from: "2.3.0"
         )
     ],
     targets: [
@@ -30,8 +30,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AdMixerMediationUnityAdsBinary",
-            url: "https://github.com/Nasmedia-Tech/iOS-AdMixerDownload/raw/main/AdMixerMediationUnityAds1.0.4.xcframework.zip",
-            checksum: "9783844f32983f4c2582e813cded4f3cc9990c7009a1e557ef1011616aae1eba"
+            url: "https://github.com/Nasmedia-Tech/iOS-AdMixerDownload/raw/main/AdMixerMediationUnityAds1.0.5.xcframework.zip",
+            checksum: "d7ac20826721c9d8fcd1a81808560bdf6e687b92c2e4bcfda0d1d2d6251617d0"
         ),
         .binaryTarget(
             name: "UnityAds",
