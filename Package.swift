@@ -30,8 +30,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AdMixerMediationUnityAdsBinary",
-            url: "https://github.com/Nasmedia-Tech/iOS-AdMixerDownload/raw/main/AdMixerMediationUnityAds1.0.5.xcframework.zip",
-            checksum: "d7ac20826721c9d8fcd1a81808560bdf6e687b92c2e4bcfda0d1d2d6251617d0"
+            url: "https://github.com/Nasmedia-Tech/iOS-AdMixerDownload/raw/main/AdMixerMediationUnityAds1.0.6.xcframework.zip",
+            checksum: "248e81c4ace22f94e0d5012e44d6373e450554be0fd30369b125ebf9ff11e843"
         ),
         .binaryTarget(
             name: "UnityAds",
